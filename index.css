@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    overflow: hidden;
+}
+
+#stats {
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+#test{
+    position: absolute;
+    left: 90px;
+    top: 8px;
+}
